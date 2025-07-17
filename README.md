@@ -43,7 +43,9 @@ This extension uses content scripts or the Chrome Debugger API (depending on you
  ├── service-worker.js
  ├── content.js
  ├── icons/
- │ └── icon.png
+ │ └── icon16.png
+ │ └── icon48.png
+ │ └── icon128.png
  ├── README.md
  └── Lincense
 ```
